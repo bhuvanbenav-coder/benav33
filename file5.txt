@@ -1,3 +1,7 @@
 max is 33
 he has 4 cups
 10 wins in row
+<<<<<<< HEAD
+=======
+
+>>>>>>> d62472e (fb1 branch changes)
